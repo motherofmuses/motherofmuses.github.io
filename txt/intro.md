@@ -1,3 +1,4 @@
+![nine_muses_and_apollo](nine_muses.jpg)
 In acient Greek mythology the nine Muses are the inspirational goddesses of literature, science, and the arts. Like most mythological creatures they are embedded in the ancient family tree of gods and titans. The nine Muses share the same father: Zeus; their mother is the daughter of Sky (Uranus) and Earth (Gaia): Mnemosyne. Her name is derived from the Greek word mnēmē, which means remembrance, memory. **Memory is the Mother of Muses.**
 
 http://brandl-art-articles.blogspot.com/2013/12/the-nine-arts-and-nine-muses.html + wiki
