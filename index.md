@@ -1,4 +1,4 @@
-# Content
+# Content <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
 ## Introduction
 
 <img src="81098138[1].jpg" width="200">
