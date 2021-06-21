@@ -1,4 +1,5 @@
-# Content <img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+# Content           
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbrentvollebregt%2Fhit-counter)
 ## Introduction
 
 <img src="81098138[1].jpg" width="200">
