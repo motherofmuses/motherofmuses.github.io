@@ -9,3 +9,4 @@
 
 
 <a href="test.md">test</a>
+[test link](test.md)
