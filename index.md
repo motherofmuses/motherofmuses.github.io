@@ -8,6 +8,7 @@
 <img src="81098138[1].jpg" width="650">
 
 *Fig X: Extract from Mnemosyne (aka Lamp of Memory) by Rossetti*
+
 ---
 [Quotes](txt/quotes.md) | [About](about.md) | <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fmotherofmuses.github.io%2F" alt="Hits">
 
