@@ -1,10 +1,10 @@
 There are many 
-
+{% raw %}
 Front Template:
 ``` 
-{% raw %}
+
 {{cloze:Text}}
-{% endraw %}
+
 ``` 
 
 Back Template:
@@ -100,3 +100,4 @@ body ul, body ol, body dl {
 }
 {% endraw %}
 ``` 
+{% endraw %}
