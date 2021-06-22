@@ -7,6 +7,7 @@
 
 [source:https://en.wikipedia.org/wiki/Mnemosyne#/media/File:Mnemosyne_(color)_Rossetti.jpg]::
 <img src="81098138[1].jpg" width="320">
-*Fig X.: Mnemosyne (aka Lamp of Memory or Ricordanza) by Dante Gabriel Rossetti*
+
+*Fig X: Extract from Mnemosyne (aka Lamp of Memory or Ricordanza) by Dante Gabriel Rossetti*
 
 [Quotes](txt/quotes.md)
