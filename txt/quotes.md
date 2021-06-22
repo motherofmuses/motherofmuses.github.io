@@ -39,3 +39,64 @@
 
 “The only person who is educated is the one who has learned how to learn and change.”
 — Carl Rogers
+
+“If you think education is expensive, try estimating the cost of ignorance.” 
+— Howard Gardner
+
+“I never learned from a man who agreed with me.” 
+— Robert A. Heinlein
+
+“A man who asks is a fool for five minutes. A man who never asks is a fool for life.” 
+— Chinese Proverb
+
+“He who learns but does not think, is lost! He who thinks but does not learn is in great danger.” 
+— Confucius
+
+“The most useful piece of learning for the uses of life is to unlearn what is untrue.”
+— Antisthenes
+
+“Education is our passport to the future, for tomorrow belongs to the people who prepare for it today.”
+— Malcolm X
+
+“Education is the ability to listen to almost anything without losing your temper or your self-confidence.” 
+— Robert Frost
+
+"Any fool can know. The point is to understand." 
+— Albert Einstein
+
+"Education is the kindling of a flame, not the filling of a vessel." 
+— Socrates
+
+"It is not that I’m so smart. But I stay with the questions much longer."
+— Albert Einstein
+
+"By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest."
+— Confucius
+
+"I know that I know nothing."
+— Socrates
+
+"That which we persist in doing becomes easier for us to do; not that the nature of the thing itself is changed, but that our power to do is increased."
+— Ralph Waldo Emerson
+
+"The tendency to forget the office of distinctions and classifications, and to take them as marking things in themselves, is the current fallacy of scientific specialism."
+— John Dewey
+
+"All learning has an emotional base."
+— Plato
+
+"Wisdom is learning what to overlook."
+— William James
+
+"Knowing is not enough; We must apply. Willing is not enough; We must do."
+— Bruce Lee
+
+"Never let formal education get in the way of your learning."
+— Mark Twain
+
+"Even the genius asks questions." 
+— Tupac Shakur
+—
+—
+—
+—
