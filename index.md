@@ -9,5 +9,5 @@
 
 *Fig X: Extract from Mnemosyne (aka Lamp of Memory) by Rossetti*
 
-[Quotes](txt/quotes.md) <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fmotherofmuses.github.io%2F" alt="Hits">
+[Quotes](txt/quotes.md)    <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fmotherofmuses.github.io%2F" alt="Hits">
 
