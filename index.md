@@ -1,5 +1,4 @@
 # Content           
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fmotherofmuses.github.io%2F" alt="Hits">
 ## [1 Introduction](txt/01_intro.md)
 ## [2 Memory](txt/02_memory.md)
 ## [3 Anki](txt/03_anki.md)
@@ -10,4 +9,5 @@
 
 *Fig X: Extract from Mnemosyne (aka Lamp of Memory or Ricordanza) by Dante Gabriel Rossetti*
 
-[Quotes](txt/quotes.md)
+[Quotes](txt/quotes.md) <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fmotherofmuses.github.io%2F" alt="Hits">
+
