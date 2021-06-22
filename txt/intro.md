@@ -1,7 +1,7 @@
 In acient Greek mythology the Nine Muses are the inspirational goddesses of literature, science, and the arts. Like most mythological creatures they are embedded in the ancient family tree of Gods and Titans. The nine Muses share the same father: Zeus; their mother is the daughter of Sky (Uranus) and Earth (Gaia): Mnemosyne. Her name is derived from the Greek word *mnēmē*, which means remembrance, memory. One could say Memory is the Mother of Muses.
 
-
-<img src="nine_muses.jpg" width="650">
+[source: https://upload.wikimedia.org/wikipedia/commons/8/88/NineMuses.gif]::
+<img src="NineMuses.gif" width="650">
 *Fig. X: Dance of Apollo with the Nine Muses: Calliope (literature), Clio (sculpture), Erato (cinema), Melpomene (theatre), Terpsichore (dance), Polymia (painting), Euterpe (music) and Thalia (comics).*
 
 http://brandl-art-articles.blogspot.com/2013/12/the-nine-arts-and-nine-muses.html + wiki
