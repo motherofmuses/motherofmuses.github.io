@@ -4,6 +4,7 @@ The current paradigm for memory research is the so called information processing
 1. Learning is the encoding of new information or the modification of stored information,
 2. Memory is the storage of information, and
 3. Recall is the retrieval of stored information.
+
 This distinction is essential and we will refer back to this later. 
 
 <img src="memory.svg" width="650">
