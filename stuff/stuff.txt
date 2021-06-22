@@ -1,0 +1,6 @@
+add comments in markdown:
+<empty line>
+[whatever comment text]::
+
+https://app.diagrams.net/
+https://www.photopea.com/
