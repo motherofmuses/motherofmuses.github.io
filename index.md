@@ -5,7 +5,7 @@
 ## [4 Beyond](txt/04_beyond.md)
 
 [source:https://en.wikipedia.org/wiki/Mnemosyne#/media/File:Mnemosyne_(color)_Rossetti.jpg]::
-<img src="81098138[1].jpg" width="320">
+<img src="81098138[1].jpg" width="650">
 
 *Fig X: Extract from Mnemosyne (aka Lamp of Memory) by Rossetti*
 
