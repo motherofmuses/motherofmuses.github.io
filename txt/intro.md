@@ -2,6 +2,7 @@ In acient Greek mythology the Nine Muses are the inspirational goddesses of lite
 
 [source: https://upload.wikimedia.org/wikipedia/commons/8/88/NineMuses.gif]::
 <img src="NineMuses.gif" width="650">
+
 *Fig. X: Dance of Apollo with the Nine Muses: Calliope (literature), Clio (sculpture), Erato (cinema), Melpomene (theatre), Terpsichore (dance), Polymia (painting), Euterpe (music) and Thalia (comics).*
 
 http://brandl-art-articles.blogspot.com/2013/12/the-nine-arts-and-nine-muses.html + wiki
