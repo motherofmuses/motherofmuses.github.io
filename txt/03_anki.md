@@ -2,11 +2,14 @@ There are many
 
 Front Template:
 ``` 
-\{{cloze:Text}}
+{% raw %}
+{{cloze:Text}}
+{% endraw %}
 ``` 
 
 Back Template:
 ``` 
+{% raw %}
 {{edit:cloze:Text}}
 <hr>
 {{edit:Extra}}
@@ -20,11 +23,13 @@ return false;"
 >Mehr</a>
 <div id="more_back" class=more style="display: none">{{edit:More}}</div>
 {{/More}}
+{% endraw %}
 ``` 
 
 Styling:
 
 ``` 
+{% raw %}
 .card {
     font-family: arial;
     font-size: 20px;
@@ -93,4 +98,5 @@ body ul, body ol, body dl {
 .mobile .night_mode #more_back {
     color: white;
 }
+{% endraw %}
 ``` 
