@@ -9,7 +9,7 @@ In acient Greek mythology the Nine Muses are the inspirational goddesses of lite
 
 “Mnemosyne, one must admit, has shown herself to be a very careless girl”, the Russian author Nabokov wrote in his autobiography. Indeed, and if this weren't the case, this blog would not exist. 
 
-The aim of this blog is to prepare one possible approach for lifelong learning in the digital age. It is an attempt to bring closer findings from cognitive psychology with the usage of the flashcard program Anki. The gap between theoretical knowledge and practical applications of memory training is huge in traditional education, but also autodidacts can profit greatly from an appraoch based on empirical research.
+The aim of this blog is to prepare one possible approach for lifelong learning in the digital age. It is an attempt to bring closer findings from cognitive psychology with the usage of the flashcard program Anki. The gap between theoretical knowledge and practical applications of memory training is huge in traditional education, but also autodidacts can profit greatly from a structured appraoch based on empirical research.
 This blog is intended for the lifelong learner and advanced Anki user. It is not intended for language learning, exam preperation nor as a means to make learning necessarily easier. However, some of the basics we cover may be useful for any learner. The main idea behind this "framework" is to make knowledge meaningful and learning / remembering an active experience. As always, there are multiple approaches to everything - you take the approach you want. Have fun. 
 
 
