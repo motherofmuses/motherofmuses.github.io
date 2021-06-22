@@ -16,8 +16,7 @@ Back Template:
 
 {{#More}}
 <hr>
-<a class=more href="#"
-onclick="this.style.display='none';
+<a class=more href="#"onclick="this.style.display='none';
 document.getElementById('more_back').style.display='inline-block';
 return false;"
 >Mehr</a>
