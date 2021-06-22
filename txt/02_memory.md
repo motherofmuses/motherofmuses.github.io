@@ -10,7 +10,7 @@ This distinction is essential and we will refer back to this later.
 <img src="memory.svg" width="650">
 *Fig X: The three phases of memory processes.*
 
-The most popular way to classify the human memory in terms of durability is the multi-store model by Atkinson and Shiffrin (1968). It states that memory consists of three different processes: a sensoric register, a short-term store or working memory, and a long-term store. 
+The most popular way to classify the human memory in terms of durability is the multi-store model by Atkinson and Shiffrin (1968). It consists of three different memory instances: a sensoric register, a short-term store or working memory, and a long-term store. 
 
 
 [<< Back](../index.md)
