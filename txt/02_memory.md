@@ -6,6 +6,7 @@ The current paradigm for memory research is the so called information processing
 3. Recall is the retrieval of stored information
 
 [memory](memory.svg)
+<img src="memory.svg" width="650">
 
 
 The most popular way to classify the human memory is the multi-store model by Atkinson and Shiffrin (1968). It states that memory consists of three different processes: a sensoric register, a short-term store or working memory, and a long-term store. 
