@@ -5,7 +5,6 @@ The current paradigm for memory research is the so called information processing
 2. Memory is the storage of information and
 3. Recall is the retrieval of stored information
 
-[memory](memory.svg)
 <img src="memory.svg" width="650">
 
 
