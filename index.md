@@ -5,7 +5,3 @@
 
 [source:https://en.wikipedia.org/wiki/Mnemosyne#/media/File:Mnemosyne_(color)_Rossetti.jpg]::
 <img src="81098138[1].jpg" width="320">
-
-
-
-<a href="test.md">test</a>
