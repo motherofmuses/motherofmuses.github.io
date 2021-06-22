@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" modified="2021-06-22T09:22:27.877Z" agent="5.0 (Windows)" etag="wefIUZp8M1g0EmrWsXqp" version="14.8.0" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1006" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T_ceQ_trUemjtJFxkqwu-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T_ceQ_trUemjtJFxkqwu-1" target="T_ceQ_trUemjtJFxkqwu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T_ceQ_trUemjtJFxkqwu-1" value="Encoding" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="200" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T_ceQ_trUemjtJFxkqwu-5" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T_ceQ_trUemjtJFxkqwu-2" target="T_ceQ_trUemjtJFxkqwu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T_ceQ_trUemjtJFxkqwu-2" value="Retention / Consolidation" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T_ceQ_trUemjtJFxkqwu-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="T_ceQ_trUemjtJFxkqwu-3" target="T_ceQ_trUemjtJFxkqwu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T_ceQ_trUemjtJFxkqwu-3" value="Retrieval" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="420" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
