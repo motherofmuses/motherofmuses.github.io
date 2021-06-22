@@ -1,14 +1,14 @@
 “There's no greater absurdity than taking everything seriously.”
-― Baltasar Gracián, How to Use Your Enemies 
+― Baltasar Gracián
 
 “When you counsel someone, you should appear to be reminding him of something he had forgotten, not of the light he was unable to see.”
-― Baltasar Gracián, The Art of Worldly Wisdom 
+― Baltasar Gracián
 
 “The right kind of leisure is better than the wrong kind of work.”
-― Baltasar Gracián, The Art of Worldly Wisdom 
+― Baltasar Gracián
 
 “Be extraordinary in your excellence, if you like, but be ordinary in your display of it.”
-― Baltasar Gracián, The Art of Worldly Wisdom 
+― Baltasar Gracián
 
 “Right now I’m having amnesia and déjà vu at the same time. I think I’ve forgotten this before.”
 ― Steven Wright 
