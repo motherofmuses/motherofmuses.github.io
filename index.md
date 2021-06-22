@@ -1,7 +1,9 @@
 # Content           
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fmotherofmuses.github.io%2F" alt="Hits">
 ## [Introduction](txt/intro.md)
+## [Memory](txt/memory.md)
 
+[source:https://en.wikipedia.org/wiki/Mnemosyne#/media/File:Mnemosyne_(color)_Rossetti.jpg]::
 <img src="81098138[1].jpg" width="320">
 
 
