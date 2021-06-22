@@ -2,9 +2,7 @@ There are many
 {% raw %}
 Front Template:
 ``` 
-
 {{cloze:Text}}
-
 ``` 
 
 Back Template:
