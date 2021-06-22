@@ -2,7 +2,7 @@ There are many
 
 Front Template:
 ``` 
-{{cloze:Text}}
+\{{cloze:Text}}
 ``` 
 
 Back Template:
