@@ -89,17 +89,4 @@ body ul, body ol, body dl {
 .mobile .night_mode #more_back {
     color: white;
 }
-
-/* BEGIN WRAPPER CODE justify
-Please do not edit this section directly, this code is generated automatically. Modify config.json instead */
-.centeredbox {
-  text-align: center;
-}
-
-.leftalign {
-  display: inline-block;
-  text-align: left;
-}
-
-/* END WRAPPER CODE */
 ``` 
