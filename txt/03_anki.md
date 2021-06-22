@@ -14,7 +14,11 @@ Back Template:
 {{#More}}
 <hr>
 <a class=more href="#"
-onclick="this.style.display='none';document.getElementById('more_back').style.display='inline-block';return false;">Mehr</a><div id="more_back" class=more style="display: none">{{edit:More}}</div>
+onclick="this.style.display='none';
+document.getElementById('more_back').style.display='inline-block';
+return false;"
+>Mehr</a>
+<div id="more_back" class=more style="display: none">{{edit:More}}</div>
 {{/More}}
 ``` 
 
