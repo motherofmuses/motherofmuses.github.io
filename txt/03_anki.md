@@ -44,8 +44,8 @@ Styling:
 }
 
 .nightMode .card {
-   color: white;
-   background-color: #2F2F31;
+    color: white;
+    background-color: #2F2F31;
 }
 
 .cloze {
@@ -64,25 +64,25 @@ body ul, body ol, body dl {
 }
 
 .more {
-  padding: 6px 40px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  border-radius: 6px;
-  background-color: white; 
-  color: black;
-  border: 1px solid black;
-  transition-duration: 0.3s;
+    padding: 6px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 6px;
+    background-color: white; 
+    color: black;
+    border: 1px solid black;
+    transition-duration: 0.3s;
 }
 
 .more:hover {
-  background-color: transparent;
-  border: 1px solid transparent;
-  color: black;
+    background-color: transparent;
+    border: 1px solid transparent;
+    color: black;
 }
 
 .nightMode .more:hover {
-  color: white;
+    color: white;
 }
 
 #more_back {
