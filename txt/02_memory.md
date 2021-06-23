@@ -5,7 +5,7 @@ The current paradigm for memory research is the so called information processing
 2. Memory is the storage of information, and
 3. Recall is the retrieval of stored information.
 
-This distinction is essential. The following figure shows this in a exact terminology. The storage of information is also called retention / consilidation. We will refer back to this later. 
+This distinction is essential. The following figure shows this in an exact terminology. The storage of information is also called retention / consilidation. We will refer back to this later. 
 
 <img src="memory.svg" width="650">
 *Fig X: The three phases of memory processes.*
