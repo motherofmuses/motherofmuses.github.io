@@ -1,4 +1,4 @@
-There are many 
+This is a minimalistic card template that is adaptable to many use cases. It is based on text clozes as they can be easily used in a Q&A-style as well. There are 4 fields: Text, Extra, More and Source. The Source-field can only be seen in the card browser and in order to save space the editing font can be set to 10px. The following is the code for cards.
 
 Front Template:
 ``` 
@@ -19,11 +19,13 @@ Back Template:
 <a class=more href="#"onclick="this.style.display='none';
 document.getElementById('more_back').style.display='inline-block';
 return false;"
->Mehr</a>
+>Show more</a>
 <div id="more_back" class=more style="display: none">{{edit:More}}</div>
 {{/More}}
 {% endraw %}
 ``` 
+Comment: This creates a "Show more"-button on the backside of a card. This button only shows up when something is in the More-field. 
+
 
 Styling:
 
@@ -95,5 +97,7 @@ body ul, body ol, body dl {
 }
 {% endraw %}
 ``` 
+Comment: Besides styling the "Show more"-button, this also formats lists to be left-justified and to be shown in the center of a card.
+
 
 [<< Back](../index.md)
