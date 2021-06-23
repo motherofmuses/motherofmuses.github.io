@@ -7,7 +7,7 @@ In acient Greek mythology the Nine Muses are the inspirational goddesses of lite
 
 [source: http://brandl-art-articles.blogspot.com/2013/12/the-nine-arts-and-nine-muses.html + wiki]::
 
-The aim of this text is to prepare one possible approach for lifelong learning in the digital age. Memory research has brought a sophisticated conceptualisation of learning and remebering. Yet, these findings often remain discounted in practical implementations. This text is an attempt to bring closer insights from cognitive psychology with the usage of the flashcard program Anki. It is intended for the academic lifelong learner and advanced Anki user. The main idea behind this "framework" is to make knowledge meaningful and learning / remembering an active experience. Research has shown that this is the most effective approach. (quote) As always, there are multiple approaches to everything - you take the approach you want. Have fun. 
+The aim of this text is to prepare one possible approach for lifelong learning in the digital age. Memory research has brought a sophisticated conceptualisation of learning and remebering. Yet, these findings often remain discounted in practical implementations. This text is an attempt to bring closer insights from cognitive psychology with the usage of the flashcard program Anki. It is intended for the academic lifelong learner and advanced Anki user. The main idea behind this "framework" is to make knowledge meaningful and learning / remembering an active, structured experience. Research has shown that this is the most effective approach. (quote) As always, there are multiple approaches to everything - you take the approach you want. Have fun. 
 
 
 [<< Back](../index.md)
