@@ -1,3 +1,7 @@
+From the perspective of an experimental psychologist every Anki session can be seen an experiment. Curiously, in this experiment the Anki user is both the investigator and participator. In the last 100 years psychology has developed a rich methodology knowledge. Most of this can be transferred for our case. This is a very short introduction to the most important terms and concepts. After that, we will methological soundly apply the theoretical findings from last chapter for creating good Anki cards.
+
+
+
 This is a minimalistic card template that is adaptable to many use cases. It is based on text clozes as they can be easily used in a Q&A-style as well. There are 4 fields: Text, Extra, More and Source. The Source-field can only be seen in the card browser and in order to save space the editing font can be set to 10px. 
 
 <center><img src="fields.jpg" width="500"></center>
