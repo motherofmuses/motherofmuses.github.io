@@ -47,11 +47,7 @@ Styling:
     color: blue;
 }
 
-.nightMode .cloze {
-    color: lightblue;
-}
-
-.mobile .night_mode .cloze {
+.nightMode .cloze, .mobile .night_mode .cloze {
     color: lightblue;
 }
 
