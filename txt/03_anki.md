@@ -1,5 +1,7 @@
 This is a minimalistic card template that is adaptable to many use cases. It is based on text clozes as they can be easily used in a Q&A-style as well. There are 4 fields: Text, Extra, More and Source. The Source-field can only be seen in the card browser and in order to save space the editing font can be set to 10px. 
-<img src="fields.jpg" width="300">
+
+<center><img src="fields.jpg" width="500"></center>
+
 The following is the code for cards.
 
 Front Template:
